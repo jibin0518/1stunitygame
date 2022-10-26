@@ -1,0 +1,8 @@
+D:\visual studio\test0922\test0922\bin\Debug\test0922.exe.config
+D:\visual studio\test0922\test0922\bin\Debug\test0922.exe
+D:\visual studio\test0922\test0922\bin\Debug\test0922.pdb
+D:\visual studio\test0922\test0922\obj\Debug\test0922.csproj.AssemblyReference.cache
+D:\visual studio\test0922\test0922\obj\Debug\test0922.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\test0922\test0922\obj\Debug\test0922.csproj.CoreCompileInputs.cache
+D:\visual studio\test0922\test0922\obj\Debug\test0922.exe
+D:\visual studio\test0922\test0922\obj\Debug\test0922.pdb
